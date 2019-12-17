@@ -13,5 +13,5 @@ The COPASI models with :
 - the model containing the adjustment term alpha.
 
 ## Citations
-Lo-Thong O, Charton P, Cadet XF, Grondin-Perez B, Saavedra E, Damour C, Cadet F. Identification of flux checkpoints in a metabolic pathway through white-box, grey-box and black-box modeling approaches. 2019
+Please cite : Lo-Thong O, Charton P, Cadet XF, Grondin-Perez B, Saavedra E, Damour C, Cadet F. Identification of flux checkpoints in a metabolic pathway through white-box, grey-box and black-box modeling approaches. 2019
    
