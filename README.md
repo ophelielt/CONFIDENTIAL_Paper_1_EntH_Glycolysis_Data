@@ -1,5 +1,5 @@
 # Lo-Thong et al., White-box, grey-box and black-box metabolic pathway modeling
-Data (models, R script)
+Data (models, R script).
 This deposit contains all models built in Lo-Thong & al. (2019).
 
 ## ANN Models
