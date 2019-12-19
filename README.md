@@ -1,4 +1,4 @@
-# CONFIDENTIAL_Paper_1_EntH_Glycolysis_Data
+# Lo-Thong et al., White-box, grey-box and black-box metabolic pathway modeling
 Data (models, R script)
 This deposit contains all models built in Lo-Thong & al. (2019).
 
